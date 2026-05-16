@@ -199,3 +199,112 @@ teams where I can contribute from day one and grow alongside great engineers.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d2b55,100:1a1b27&height=120&section=footer"/>
 
 </div>
+</td> </tr> </table>
+🚀 Featured Projects
+<details> <summary><b>🔐 SecureAuth — AI-Powered Adaptive Authentication System</b></summary> <br/>
+Traditional authentication systems rely on static rules and labeled attack data — both of which fail against evolving threats. I built an unsupervised ensemble ML framework that detects anomalous login behavior in real time without ever needing labeled "attack" examples.
+
+Stack	Python · scikit-learn · MariaDB · Cybersecurity
+ML Architecture	Ensemble of Isolation Forest (global outlier isolation) + One-Class SVM (learned decision boundary) + Local Outlier Factor (local density deviation)
+Security Layer	Behavioral profiling · Adaptive threat scoring · IP-based rate limiting · Exponential backoff · Automated lockout
+Database	Normalized MariaDB schema · Secure credential storage · Session lifecycle management · Forensic audit logging
+Key Insight	Combined three algorithms with different mathematical foundations to reduce false positives from any single model's blind spots — defense-in-depth applied to ML
+</details><details> <summary><b>🧵 TextileOS Quotation Engine — Operations Management System</b></summary> <br/>
+Textile traders rely on fragmented spreadsheets and manual pricing logic. I built a structured, database-driven quotation system that translates real industry workflows — fabric hierarchies, tiered pricing, supplier relationships — into clean software architecture.
+
+Stack	JavaScript · SQL · Relational Database Design
+Architecture	Normalized relational schema with full referential integrity · Multi-table joins for catalog, pricing, quotations, and supplier records
+Key Features	Dynamic quotation generation · Margin-aware pricing logic · Multi-filter product search · Historical quotation retrieval · Structured business reporting
+Domain Modeling	Fabric categorization hierarchies · Supplier-client pricing dynamics · Real procurement and fulfillment workflows
+</details><details> <summary><b>🎨 Balaji Colour Store — Premium Retail Web Platform</b></summary> <br/>
+A premium paint & interior solutions retail business needed a digital storefront that matched its brand quality. I engineered a production-grade React platform with type-safe architecture and performance-optimized animations — deployed and actively used by real customers.
+
+Stack	React · TypeScript · Tailwind CSS · Framer Motion
+Architecture	Component-driven design · TypeScript type safety · Responsive Tailwind system · Performance-optimized animations
+Key Features	Premium animated UX · Full responsive design (mobile/tablet/desktop) · SEO-optimized routing & metadata
+Deployed	✅ Live in production for commercial client
+</details><details> <summary><b>🌐 Pacific International — B2B Import/Export Trade Platform</b></summary> <br/>
+An international coffee trading company needed a structured digital presence to engage with global dealer networks. I built a B2B platform engineered for international trade standards and dealer-grade product presentation.
+
+Stack	JavaScript · React · Web Architecture
+Audience	International B2B dealers and global importers
+Architecture	Dealer-facing component system · Product catalog presentation · Trade specification display · International acquisition flows
+Deployed	✅ Delivered production-ready for commercial client
+</details><details> <summary><b>⚙️ E-Commerce Engine — Algorithmic Platform Design</b></summary> <br/>
+A Java-based e-commerce backend demonstrating applied data structures and algorithmic design across real e-commerce operations — built from first principles with disciplined OOP architecture.
+
+Stack	Java · Data Structures & Algorithms · OOP Design
+Architecture	Object-oriented class hierarchies · Interface contracts · Disciplined separation of concerns
+Algorithms	Efficient product search · Multi-criteria sorting · Filtering across large product datasets
+Operations	Product catalog management · Cart operations · Order processing · Inventory tracking
+</details>
+🧰 Tech Stack
+<div align="center">
+Languages
+
+Skills
+
+Machine Learning & AI
+
+Skills
+ 
+Isolation Forest
+OC-SVM
+LOF
+Generative AI
+
+Frontend & Backend
+
+Skills
+
+Databases, DevOps & Tools
+
+Skills
+
+<br/>
+MariaDB 
+Cybersecurity 
+Prompt Engineering 
+LLM APIs 
+Postman
+
+</div>
+🎯 Current Focus
+<div align="center">
+Domain	What I'm Building
+🤖 Applied ML	Production ML systems using ensemble methods & unsupervised learning
+🧵 Vertical AI	AI-powered operational systems for textile and supply chain industries
+🔐 Security Engineering	ML-integrated authentication and adaptive threat detection
+🏢 Industry Software	Real systems for real businesses — not tutorial projects
+</div>
+🏆 Certifications & Learning
+<div align="center">
+Generative AI
+ 
+LangGraph
+
+<br/>
+Actively progressing: Multi-Agent Orchestration · LangGraph Framework · Advanced LLM Systems
+
+</div>
+📊 GitHub Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rewant1908&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Rewant%27s%20Stats" height="165px"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rewant1908&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&custom_title=Top%20Languages" height="165px"/>
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rewant1908&theme=tokyonight&hide_border=true" width="52%"/></div>
+📈 Contribution Activity
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Rewant1908&theme=tokyo-night&hide_border=true&area=true&custom_title=Rewant%27s%20Contribution%20Graph&line=7aa2f7&point=c0caf5&area_color=7aa2f7" width="100%"/></div>
+🏆 GitHub Trophies
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rewant1908&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="100%"/></div>
+<div align="center">
+💼 Let's Build Something Together
+I'm actively looking for internship, research, and full-time opportunities in
+AI engineering, applied ML, and full-stack development —
+teams building real systems for traditional industries or pushing AI infrastructure forward.
+
+<br/>
+LinkedIn
+  
+Email
+
+<br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d2b55,100:1a1b27&height=120&section=footer"/></div> ```

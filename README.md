@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a *CS undergrad at Ahmedabad University* with a rare edge — a commerce background that gives me the business context most developers lack. I build and *deploy* full-stack applications focused on clean architecture, real security, and solving actual business problems.
+I'm a *CS undergrad at Ahmedabad University* with a rare edge a commerce background that gives me the business context most developers lack. I build and *deploy* full-stack applications focused on clean architecture, real security, and solving actual business problems.
 
 - 🏗️ Production apps on *Railway* with custom domains & SSL
 - 🔐 Built a complete *auth system* from scratch — JWT, MFA, RBAC, bcrypt
@@ -92,7 +92,7 @@ strengths:
 <summary><b>🔐 SecureAuth — Production-Grade Auth System</b></summary>
 <br/>
 
-> A complete, standalone authentication and authorization module — not a tutorial project, a reusable production module.
+> A complete, standalone authentication and authorization module not a tutorial project, a reusable production module.
 
 | | |
 |:---|:---|
@@ -145,18 +145,13 @@ strengths:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rewant1908&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Rewant%27s%20Stats" height="165px"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rewant1908&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&custom_title=Top%20Languages" height="165px"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rewant1908&theme=tokyonight&hide_border=true" width="52%"/>
-
+## 📊 GitHub Stats 
+<div align="center"> 
+  <img src="https://vercel.app" height="165px"/> 
+  &nbsp; 
+  <img src="https://vercel.app" height="165px"/> 
+  <br/><br/> 
+  <img src="https://herokuapp.com" width="52%"/> 
 </div>
 
 ---

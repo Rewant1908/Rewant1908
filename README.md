@@ -145,14 +145,7 @@ strengths:
 
 ---
 
-## 📊 GitHub Stats 
-<div align="center"> 
-  <img src="https://vercel.app" height="165px"/> 
-  &nbsp; 
-  <img src="https://vercel.app" height="165px"/> 
-  <br/><br/> 
-  <img src="https://herokuapp.com" width="52%"/> 
-</div>
+## 📊 GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rewant1908&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Rewant%27s%20Stats" height="165px"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rewant1908&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&custom_title=Top%20Languages" height="165px"/> <br/><br/> <img src="https://nirzak-streak-stats.vercel.app/?user=Rewant1908&theme=tokyonight&hide_border=true" width="52%"/> </div>
 
 ---
 

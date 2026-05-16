@@ -39,7 +39,7 @@ I'm a **CS undergrad at Ahmedabad University** with a rare edge — a commerce b
 ```yaml
 name     : Rewant Agrawal
 location : Ahmedabad, India 🇮🇳
-degree   : B.Tech — Computer Science
+degree   : BSc — Computer Science
 uni      : Ahmedabad University
 status   : 🟢 Open to Work
 

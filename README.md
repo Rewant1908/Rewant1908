@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **second-year CS undergrad at Ahmedabad University** with a rare edge — a commerce background that gives me the business context most developers lack. I build **AI-powered systems** at the intersection of machine learning, cybersecurity, and traditional industry operations.
+I'm a **third-year CS undergrad at Ahmedabad University** with a rare edge — a commerce background that gives me the business context most developers lack. I build **AI-powered systems** at the intersection of machine learning, cybersecurity, and traditional industry operations.
 
 - 🤖 Engineered **ensemble ML anomaly detection** using Isolation Forest, One-Class SVM, and Local Outlier Factor for adaptive authentication
 - 🔐 Architected **production-grade security systems** with behavioral profiling, rate limiting, and forensic audit trails
